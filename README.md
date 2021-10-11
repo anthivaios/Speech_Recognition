@@ -1,1 +1,2 @@
 # Speech_Recognition
+requirements
